@@ -1,0 +1,42 @@
+RL ENV STARTED
+Weights loaded! weights/IslandMap_SquareWheelsBuggy/duel_dqn_8600000.h5f
+Reset called! caller: core #3 None
+Reset done, exitpoint 2
+Reset called! caller: step {'params': {'my_lives': 249999, 'enemy_lives': 250000, 'proto_map': {'segments': [[[100, 100], [1100, 100], 10]], 'external_id': 5}, 'proto_car': {'front_wheel_elasticity': 0.8, 'front_wheel_mass': 10, 'squared_wheels': True, 'rear_wheel_damp_length': 25, 'car_body_friction': 0.9, 'front_wheel_position': [122, -5], 'external_id': 3, 'front_wheel_radius': 12, 'rear_wheel_mass': 10, 'max_speed': 50, 'rear_wheel_damp_stiffness': 100000.0, 'car_body_mass': 230, 'rear_wheel_joint': [0, 0], 'front_wheel_damp_damping': 900.0, 'front_wheel_joint': [0, 0], 'front_wheel_damp_stiffness': 60000.0, 'torque': 14000000, 'rear_wheel_elasticity': 0.8, 'rear_wheel_position': [29, -5], 'front_wheel_friction': 1, 'car_body_elasticity': 0.5, 'rear_wheel_damp_damping': 900.0, 'car_body_poly': [[0, 6], [0, 25], [33, 42], [85, 42], [150, 20], [150, 0], [20, 0]], 'max_angular_speed': 2, 'button_poly': [[40, 42], [40.0, 43.0], [78.0, 43.0], [78.0, 42.0]], 'rear_wheel_radius': 12, 'drive': 3, 'rear_wheel_friction': 1, 'front_wheel_damp_position': [122, 20], 'front_wheel_damp_length': 25, 'rear_wheel_damp_position': [29, 20]}}, 'type': 'new_match'}
+Reward: 10000
+Reset done, exitpoint 3
+Done!
+Reset called! caller: core #3 None
+Reset done, exitpoint 1
+Reset called! caller: step {'params': {'my_lives': 249998, 'enemy_lives': 250000, 'proto_map': {'segments': [[[100, 100], [1100, 100], 10]], 'external_id': 5}, 'proto_car': {'front_wheel_elasticity': 0.8, 'front_wheel_mass': 10, 'squared_wheels': True, 'rear_wheel_damp_length': 25, 'car_body_friction': 0.9, 'front_wheel_position': [122, -5], 'external_id': 3, 'front_wheel_radius': 12, 'rear_wheel_mass': 10, 'max_speed': 50, 'rear_wheel_damp_stiffness': 100000.0, 'car_body_mass': 230, 'rear_wheel_joint': [0, 0], 'front_wheel_damp_damping': 900.0, 'front_wheel_joint': [0, 0], 'front_wheel_damp_stiffness': 60000.0, 'torque': 14000000, 'rear_wheel_elasticity': 0.8, 'rear_wheel_position': [29, -5], 'front_wheel_friction': 1, 'car_body_elasticity': 0.5, 'rear_wheel_damp_damping': 900.0, 'car_body_poly': [[0, 6], [0, 25], [33, 42], [85, 42], [150, 20], [150, 0], [20, 0]], 'max_angular_speed': 2, 'button_poly': [[40, 42], [40.0, 43.0], [78.0, 43.0], [78.0, 42.0]], 'rear_wheel_radius': 12, 'drive': 3, 'rear_wheel_friction': 1, 'front_wheel_damp_position': [122, 20], 'front_wheel_damp_length': 25, 'rear_wheel_damp_position': [29, 20]}}, 'type': 'new_match'}
+Reward: -833
+Reset done, exitpoint 3
+Done!
+Reset called! caller: core #3 None
+Reset done, exitpoint 1
+Reset called! caller: step {'params': {'my_lives': 249997, 'enemy_lives': 250000, 'proto_map': {'segments': [[[100, 100], [1100, 100], 10]], 'external_id': 5}, 'proto_car': {'front_wheel_elasticity': 0.8, 'front_wheel_mass': 10, 'squared_wheels': True, 'rear_wheel_damp_length': 25, 'car_body_friction': 0.9, 'front_wheel_position': [122, -5], 'external_id': 3, 'front_wheel_radius': 12, 'rear_wheel_mass': 10, 'max_speed': 50, 'rear_wheel_damp_stiffness': 100000.0, 'car_body_mass': 230, 'rear_wheel_joint': [0, 0], 'front_wheel_damp_damping': 900.0, 'front_wheel_joint': [0, 0], 'front_wheel_damp_stiffness': 60000.0, 'torque': 14000000, 'rear_wheel_elasticity': 0.8, 'rear_wheel_position': [29, -5], 'front_wheel_friction': 1, 'car_body_elasticity': 0.5, 'rear_wheel_damp_damping': 900.0, 'car_body_poly': [[0, 6], [0, 25], [33, 42], [85, 42], [150, 20], [150, 0], [20, 0]], 'max_angular_speed': 2, 'button_poly': [[40, 42], [40.0, 43.0], [78.0, 43.0], [78.0, 42.0]], 'rear_wheel_radius': 12, 'drive': 3, 'rear_wheel_friction': 1, 'front_wheel_damp_position': [122, 20], 'front_wheel_damp_length': 25, 'rear_wheel_damp_position': [29, 20]}}, 'type': 'new_match'}
+Reward: -833
+Reset done, exitpoint 3
+Done!
+Reset called! caller: core #3 None
+Reset done, exitpoint 1
+Reset called! caller: step {'params': {'my_lives': 249996, 'enemy_lives': 250000, 'proto_map': {'segments': [[[100, 100], [1100, 100], 10]], 'external_id': 5}, 'proto_car': {'front_wheel_elasticity': 0.8, 'front_wheel_mass': 10, 'squared_wheels': True, 'rear_wheel_damp_length': 25, 'car_body_friction': 0.9, 'front_wheel_position': [122, -5], 'external_id': 3, 'front_wheel_radius': 12, 'rear_wheel_mass': 10, 'max_speed': 50, 'rear_wheel_damp_stiffness': 100000.0, 'car_body_mass': 230, 'rear_wheel_joint': [0, 0], 'front_wheel_damp_damping': 900.0, 'front_wheel_joint': [0, 0], 'front_wheel_damp_stiffness': 60000.0, 'torque': 14000000, 'rear_wheel_elasticity': 0.8, 'rear_wheel_position': [29, -5], 'front_wheel_friction': 1, 'car_body_elasticity': 0.5, 'rear_wheel_damp_damping': 900.0, 'car_body_poly': [[0, 6], [0, 25], [33, 42], [85, 42], [150, 20], [150, 0], [20, 0]], 'max_angular_speed': 2, 'button_poly': [[40, 42], [40.0, 43.0], [78.0, 43.0], [78.0, 42.0]], 'rear_wheel_radius': 12, 'drive': 3, 'rear_wheel_friction': 1, 'front_wheel_damp_position': [122, 20], 'front_wheel_damp_length': 25, 'rear_wheel_damp_position': [29, 20]}}, 'type': 'new_match'}
+Reward: -833
+Reset done, exitpoint 3
+Done!
+Reset called! caller: core #3 None
+Reset done, exitpoint 1
+Reset called! caller: step {'params': {'my_lives': 249995, 'enemy_lives': 250000, 'proto_map': {'segments': [[[100, 100], [1100, 100], 10]], 'external_id': 5}, 'proto_car': {'front_wheel_elasticity': 0.8, 'front_wheel_mass': 10, 'squared_wheels': True, 'rear_wheel_damp_length': 25, 'car_body_friction': 0.9, 'front_wheel_position': [122, -5], 'external_id': 3, 'front_wheel_radius': 12, 'rear_wheel_mass': 10, 'max_speed': 50, 'rear_wheel_damp_stiffness': 100000.0, 'car_body_mass': 230, 'rear_wheel_joint': [0, 0], 'front_wheel_damp_damping': 900.0, 'front_wheel_joint': [0, 0], 'front_wheel_damp_stiffness': 60000.0, 'torque': 14000000, 'rear_wheel_elasticity': 0.8, 'rear_wheel_position': [29, -5], 'front_wheel_friction': 1, 'car_body_elasticity': 0.5, 'rear_wheel_damp_damping': 900.0, 'car_body_poly': [[0, 6], [0, 25], [33, 42], [85, 42], [150, 20], [150, 0], [20, 0]], 'max_angular_speed': 2, 'button_poly': [[40, 42], [40.0, 43.0], [78.0, 43.0], [78.0, 42.0]], 'rear_wheel_radius': 12, 'drive': 3, 'rear_wheel_friction': 1, 'front_wheel_damp_position': [122, 20], 'front_wheel_damp_length': 25, 'rear_wheel_damp_position': [29, 20]}}, 'type': 'new_match'}
+Reward: -833
+Reset done, exitpoint 3
+Done!
+Reset called! caller: core #3 None
+Reset done, exitpoint 1
+Reset called! caller: step {'params': {'my_lives': 249994, 'enemy_lives': 250000, 'proto_map': {'segments': [[[100, 100], [1100, 100], 10]], 'external_id': 5}, 'proto_car': {'front_wheel_elasticity': 0.8, 'front_wheel_mass': 10, 'squared_wheels': True, 'rear_wheel_damp_length': 25, 'car_body_friction': 0.9, 'front_wheel_position': [122, -5], 'external_id': 3, 'front_wheel_radius': 12, 'rear_wheel_mass': 10, 'max_speed': 50, 'rear_wheel_damp_stiffness': 100000.0, 'car_body_mass': 230, 'rear_wheel_joint': [0, 0], 'front_wheel_damp_damping': 900.0, 'front_wheel_joint': [0, 0], 'front_wheel_damp_stiffness': 60000.0, 'torque': 14000000, 'rear_wheel_elasticity': 0.8, 'rear_wheel_position': [29, -5], 'front_wheel_friction': 1, 'car_body_elasticity': 0.5, 'rear_wheel_damp_damping': 900.0, 'car_body_poly': [[0, 6], [0, 25], [33, 42], [85, 42], [150, 20], [150, 0], [20, 0]], 'max_angular_speed': 2, 'button_poly': [[40, 42], [40.0, 43.0], [78.0, 43.0], [78.0, 42.0]], 'rear_wheel_radius': 12, 'drive': 3, 'rear_wheel_friction': 1, 'front_wheel_damp_position': [122, 20], 'front_wheel_damp_length': 25, 'rear_wheel_damp_position': [29, 20]}}, 'type': 'new_match'}
+Reward: -833
+Reset done, exitpoint 3
+Done!
+Reset called! caller: core #3 None
+Reset done, exitpoint 1
+EXCEPTION (step)
+Exception:

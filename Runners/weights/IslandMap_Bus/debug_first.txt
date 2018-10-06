@@ -1,0 +1,24 @@
+RL ENV STARTED
+Weights loaded! weights/IslandMap_Bus/duel_dqn_101.h5f
+Reset called! caller: core #3 None
+Reset done, exitpoint 2
+Reset called! caller: step {'type': 'new_match', 'params': {'proto_car': {'front_wheel_damp_length': 35, 'rear_wheel_joint': [0, 0], 'rear_wheel_friction': 0.9, 'max_angular_speed': 2, 'front_wheel_damp_stiffness': 100000.0, 'drive': 3, 'rear_wheel_radius': 13, 'external_id': 2, 'car_body_mass': 700, 'front_wheel_damp_damping': 6000.0, 'front_wheel_damp_position': [125, 30], 'front_wheel_mass': 60, 'front_wheel_radius': 13, 'front_wheel_joint': [0, 0], 'front_wheel_position': [125, -5], 'front_wheel_elasticity': 0.8, 'rear_wheel_position': [38, -5], 'rear_wheel_damp_damping': 6000.0, 'rear_wheel_damp_length': 35, 'torque': 35000000, 'car_body_friction': 0.9, 'button_poly': [[137, 59], [137.87002218584863, 59.49301257198088], [151.67437420131327, 35.132391368219736], [150.80435201546464, 34.63937879623886]], 'rear_wheel_mass': 60, 'car_body_poly': [[0, 6], [8, 62], [136, 62], [153, 32], [153, 5], [110, 0], [23, 0]], 'max_speed': 45, 'car_body_elasticity': 0.5, 'rear_wheel_elasticity': 0.8, 'rear_wheel_damp_position': [38, 30], 'rear_wheel_damp_stiffness': 100000.0, 'front_wheel_friction': 1}, 'enemy_lives': 249999, 'proto_map': {'segments': [[[100, 100], [1100, 100], 10]], 'external_id': 5}, 'my_lives': 250000}}
+Reward: 9847
+Reset done, exitpoint 3
+Done!
+Reset called! caller: core #3 None
+Reset done, exitpoint 1
+Reset called! caller: step {'type': 'new_match', 'params': {'proto_car': {'front_wheel_damp_length': 35, 'rear_wheel_joint': [0, 0], 'rear_wheel_friction': 0.9, 'max_angular_speed': 2, 'front_wheel_damp_stiffness': 100000.0, 'drive': 3, 'rear_wheel_radius': 13, 'external_id': 2, 'car_body_mass': 700, 'front_wheel_damp_damping': 6000.0, 'front_wheel_damp_position': [125, 30], 'front_wheel_mass': 60, 'front_wheel_radius': 13, 'front_wheel_joint': [0, 0], 'front_wheel_position': [125, -5], 'front_wheel_elasticity': 0.8, 'rear_wheel_position': [38, -5], 'rear_wheel_damp_damping': 6000.0, 'rear_wheel_damp_length': 35, 'torque': 35000000, 'car_body_friction': 0.9, 'button_poly': [[137, 59], [137.87002218584863, 59.49301257198088], [151.67437420131327, 35.132391368219736], [150.80435201546464, 34.63937879623886]], 'rear_wheel_mass': 60, 'car_body_poly': [[0, 6], [8, 62], [136, 62], [153, 32], [153, 5], [110, 0], [23, 0]], 'max_speed': 45, 'car_body_elasticity': 0.5, 'rear_wheel_elasticity': 0.8, 'rear_wheel_damp_position': [38, 30], 'rear_wheel_damp_stiffness': 100000.0, 'front_wheel_friction': 1}, 'enemy_lives': 249998, 'proto_map': {'segments': [[[100, 100], [1100, 100], 10]], 'external_id': 5}, 'my_lives': 250000}}
+Reward: 9846
+Reset done, exitpoint 3
+Done!
+Reset called! caller: core #3 None
+Reset done, exitpoint 1
+Reset called! caller: step {'type': 'new_match', 'params': {'proto_car': {'front_wheel_damp_length': 35, 'rear_wheel_joint': [0, 0], 'rear_wheel_friction': 0.9, 'max_angular_speed': 2, 'front_wheel_damp_stiffness': 100000.0, 'drive': 3, 'rear_wheel_radius': 13, 'external_id': 2, 'car_body_mass': 700, 'front_wheel_damp_damping': 6000.0, 'front_wheel_damp_position': [125, 30], 'front_wheel_mass': 60, 'front_wheel_radius': 13, 'front_wheel_joint': [0, 0], 'front_wheel_position': [125, -5], 'front_wheel_elasticity': 0.8, 'rear_wheel_position': [38, -5], 'rear_wheel_damp_damping': 6000.0, 'rear_wheel_damp_length': 35, 'torque': 35000000, 'car_body_friction': 0.9, 'button_poly': [[137, 59], [137.87002218584863, 59.49301257198088], [151.67437420131327, 35.132391368219736], [150.80435201546464, 34.63937879623886]], 'rear_wheel_mass': 60, 'car_body_poly': [[0, 6], [8, 62], [136, 62], [153, 32], [153, 5], [110, 0], [23, 0]], 'max_speed': 45, 'car_body_elasticity': 0.5, 'rear_wheel_elasticity': 0.8, 'rear_wheel_damp_position': [38, 30], 'rear_wheel_damp_stiffness': 100000.0, 'front_wheel_friction': 1}, 'enemy_lives': 249997, 'proto_map': {'segments': [[[100, 100], [1100, 100], 10]], 'external_id': 5}, 'my_lives': 250000}}
+Reward: 9846
+Reset done, exitpoint 3
+Done!
+Reset called! caller: core #3 None
+Reset done, exitpoint 1
+EXCEPTION (step)
+Exception:
