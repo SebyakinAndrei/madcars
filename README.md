@@ -5,7 +5,8 @@
 3) smartguy - compiled c++11 baseline for windows
 
 ## How it works
-Localrunner -> RLClient (custom Client) [rl_env.py] -> RLEnv (object that incapsulates methods of RL env. that needs RL agent) [my_strategy.py] -> Strategy (func. run_strategy) [my_strategy.py] (inference) [rl_env.py] (training)
+**Localrunner -> RLClient (custom Client) [rl_env.py] -> RLEnv (object that incapsulates methods of RL env. that needs RL agent) [my_strategy.py] -> Strategy (func. run_strategy) [my_strategy.py] (inference) [rl_env.py] (training)**
+
 Strategies are communicating with Client with queues, so it's faster and more debug-friendly solution in compared to stdin/stdoud. We also sending and recieving model weights and other information with queues while training.
 
 ## How you can run it
