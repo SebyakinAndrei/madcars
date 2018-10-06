@@ -9,7 +9,7 @@ Localrunner -> RLClient (custom Client) [rl_env.py] -> RLEnv (object that incaps
 Strategies are communicating with Client with queues, so it's faster and more debug-friendly solution in compared to stdin/stdoud. We also sending and recieving model weights and other information with queues while training.
 
 ## How you can run it
-###Flags
+### Flags
 - -rl_env - flag for freezing one match config and play it every time
   - -n - the number of times that match runs
   - -env_car - Car used in matches
