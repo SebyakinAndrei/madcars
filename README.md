@@ -15,9 +15,9 @@ Strategies are communicating with Client with queues, so it's faster and more de
   - -n - the number of times that match runs
   - -env_car - Car used in matches
   - -env_map - Map used in matches
-  - -dump - Enables dump of every match (for pre-training agents). Dumps are stored in Runners/dumps/<env_map>_<env_car>/dump_<randnum>.txt
+  - -dump - Enables dump of every match (for pre-training agents). Dumps are stored in ```Runners/dumps/<env_map>_<env_car>/dump_<randnum>.txt```
 - -reset_every - If used, enables self-play mode (can run only if -f and -s is "agent") and reset the bad model weights to weights of the better model after a number of episodes chosen (look at rl_env.py -> run_strategy for details)
-- -resume - the number of epoch to resume model weights. Loads weights from Runners/weights/<env_map>_<env_car>/duel_dqn_<resume>.h5f
+- -resume - the number of epoch to resume model weights. Loads weights from ```Runners/weights/<env_map>_<env_car>/duel_dqn_<resume>.h5f```
 - -train1 - enables train mode for the first agent
 - -train2 - enables train mode for the second agent
 - -dueling1 - enables dueling model (addition for dqn that prevents from overfitting) for first double dqn agent
