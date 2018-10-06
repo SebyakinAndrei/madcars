@@ -26,5 +26,6 @@ Strategies are communicating with Client with queues, so it's faster and more de
 
 ### Examples
 ```python localrunner.py -f "agent" -s "agent" -rl_env -env_car Buggy -env_map IslandMap -n 5000 -reset_every 10``` - Self-play config, for test only, models are empty (lol)
+
 ```python localrunner.py -f "agent" -s "../smartguy/main.exe" -rl_env -env_car SquareWheelsBuggy -env_map IslandMap -n 500000 -train1 --nodraw``` - Train RL agent against smartguy
 
