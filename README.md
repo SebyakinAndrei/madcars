@@ -1,9 +1,10 @@
 # Madcars Reinforcement Learning Solution
 ## Project structure
 1) Runners - main source
-2) to_send - solution ready to send to the site (https://aicups.ru/)
-3) smartguy - compiled c++11 baseline for windows
-4) memes - contains original meme about my worthless solution (Russian)
+2) Runners/Untitled.ipynb - notebook containing code for pre-training models from match dumps
+3) to_send - solution ready to send to the site (https://aicups.ru/)
+4) smartguy - compiled c++11 baseline for windows
+5) memes - contains original meme about my worthless solution (Russian)
 
 ## How it works
 **Localrunner -> RLClient (custom Client) [rl_env.py] -> RLEnv (object that incapsulates methods of RL env. that needs RL agent) [my_strategy.py] -> Strategy (func. run_strategy) [my_strategy.py] (inference) [rl_env.py] (training)**
